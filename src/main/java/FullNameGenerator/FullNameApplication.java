@@ -28,7 +28,7 @@ public class FullNameApplication {
         System.out.println("Suffix");
         String suffix = scanner.nextLine();
 
-        System.out.println("My name is" ();
+        System.out.println("My name is " + name +" " + middleName + " " + lastName + " " + suffix);
 
 
 
